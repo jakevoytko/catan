@@ -1,6 +1,33 @@
 # Ad copy
 Found some good sources on (https://github.com/goabstract/Marketing-for-Engineers)
 
+## The template I use to write FB ads that tend to get clicks/sales
+https://www.reddit.com/r/Entrepreneur/comments/a3zhw6/the_template_i_use_to_write_fb_ads_that_tend_to/
+
+I found a lot of good general purpose advice in here
+**Mistakes:**
+- Talking about yourself instead of the reader. The reader doesn't care about you
+- Not testing variations
+- Dry copy. Your reader is a human
+- Not qualifying the reader
+- No call to action
+- Features over benefits
+- Not telling stories
+
+**Answer these questions**
+- Why me?
+- Why you?
+- Why this?
+- Why now?
+
+**Things to do**
+- Have a very clear "avatar" defined.
+- One problem, one solution. Don't sell 8 different things
+- Use testimonials whenever you can
+- Speak naturally - read the ad out loud and edit if it sound wrong
+- Avoid big blocks of text
+- Read back every sentence and ask yourself, "So what?"
+
 ## The Reddit Ads Experiment: What We Learned for $250 (Updated With FAQ!)
 https://blog.ladder.io/reddit-ads/#gq76sdzw2tktvynspfog
 
