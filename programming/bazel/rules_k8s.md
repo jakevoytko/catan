@@ -66,3 +66,9 @@ docker ps
 docker stop 2d0cbd19bbbd # Image from registry:2
 docker system prune -a # Aggressive removal of now-unused dev images. Be careful
 ```
+
+## Cleaning up the `kube-system` namespace
+
+I ran fluentd collectors in a DaemonSet. I can't find a way to get it to un-apply the changes
+that I make to containers outside of the specific namespace I set up for logging, so I have
+manual delete steps for those particular collectors.
